@@ -2,5 +2,6 @@
 "name": "AnimePool",
 "description": "このプールはアニメ好きが集うプールです。 / This pool is a gathering place for anime lovers.",
 "ticker": "ANIME",
-"homepage": "https://anime-pool.net/"
+"homepage": "https://anime-pool.net/",
+"extended": "https://ponta0807.github.io/cardano/pool_meta_extended.json"
 }
