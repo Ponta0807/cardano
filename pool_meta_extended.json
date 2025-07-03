@@ -1,0 +1,28 @@
+{
+  "info": {
+    "location": "Japan",
+    "social": {
+      "twitter_handle": "anime_pool_ada",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "about": {
+      "me": "",
+      "server": "",
+      "company": "Anime Pool"
+    }
+  },
+  "telegram-admin-handle": [
+    ""
+  ],
+  "my-pool-ids": [
+    "4dc77b7ed80129bf911db52f016221b87e0f0014ee9d38bef21b2b9d"
+  ],
+  "when-satured-then-recommend": [
+    "4dc77b7ed80129bf911db52f016221b87e0f0014ee9d38bef21b2b9d"
+  ]
+}
